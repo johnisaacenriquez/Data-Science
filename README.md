@@ -1,2 +1,2 @@
-# Learning
-This repository contains Jupyter notebooks that demonstrate the use of Python for Data Science and Machine Learning
+# Learning Python
+This repository contains Jupyter notebooks that demonstrate the application of Python for Data Science, Machine Learning, and AI
